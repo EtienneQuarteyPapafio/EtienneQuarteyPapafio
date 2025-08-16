@@ -2,7 +2,7 @@
 
 •My name is Etienne👑
 
-•✨Skills in C++, C#, Arduino, Matlab, Python, Azure, MAX/MSP, Juce, KiCAD, OSC 
+•✨Skills in C++, Arduino, Matlab, Python, MAX/MSP, Juce, KiCAD, OSC 
 
 •I am a recent masters level graduate from UWL⚡
 
