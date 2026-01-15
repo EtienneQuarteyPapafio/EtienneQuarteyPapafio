@@ -2,9 +2,9 @@
 
 - :star_struck:	Interested in:
 ![Red Teaming](https://img.shields.io/badge/-Blue_Teaming-blue)
+![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-white)
 ![Malware Development](https://img.shields.io/badge/-Malware_Development-blueviolet)
-![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-9cf)
-![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-af4)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-brown)
 
 
 
