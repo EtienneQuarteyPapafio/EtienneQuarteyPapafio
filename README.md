@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Etienne, Reverse Engineer / Malware Analyst / Hardware and Embedded Tech Lover 👋
 
-•My name is Etienne👑
+- :star_struck:	Interested in:
+![Red Teaming](https://img.shields.io/badge/-Blue_Teaming-blue)
+![Malware Development](https://img.shields.io/badge/-Malware_Development-blueviolet)
+![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-9cf)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-af4)
 
-•✨Skills in C++, Arduino, Matlab, Python, MAX/MSP, Juce, KiCAD, OSC 
 
-•I am a recent masters level graduate from UWL⚡
 
-•I love embedded tech and DSP🤔
+- :computer: Programming languages and Skills:
+![c++](https://img.shields.io/badge/-C++-grey)
+![python](https://img.shields.io/badge/-Python-blue)
+![Matlab](https://img.shields.io/badge/-MATLAB-orange)
+![MAX/MSP](https://img.shields.io/badge/-MAX/MSP-pink)
+![KiCad](https://img.shields.io/badge/-KiCad-green)
+![FLAREVM](https://img.shields.io/badge/-FLARE%20VM-yellow)
 
-•😄 Pronouns: He/Him
 
-•🔭 I’m currently working on: An effect pedal with daisy seed
+- 😄 Pronouns: He/Him
+
+### Projects
+- [Malware-Analysis-Writeups](https://github.com/EtienneQuarteyPapafio/Malware_Analysis) - Malware Analysis writeups
 
 <!--
 **EtienneQuarteyPapafio/EtienneQuarteyPapafio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
