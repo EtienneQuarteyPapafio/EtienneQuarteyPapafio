@@ -1,4 +1,4 @@
-### Hi there, I'm Etienne, Reverse Engineer / Malware Analyst / Hardware and Embedded Tech Lover 👋
+### Hi there, I'm Etienne, Junior SOC / Reverse Engineer / Malware Analyst👋
 
 - :star_struck:	Interested in:
 ![Red Teaming](https://img.shields.io/badge/-Blue_Teaming-blue)
