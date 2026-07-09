@@ -20,7 +20,8 @@
 - 😄 Pronouns: He/Him
 
 ### Projects
-- [Malware-Analysis-Writeups](https://github.com/EtienneQuarteyPapafio/Malware_Analysis) - Malware Analysis writeups
+- [Malware-Analysis-Writeups](https://github.com/EtienneQuarteyPapafio/Malware_Analysis)
+- [Nwise Internship Projects](https://github.com/EtienneQuarteyPapafio/Nwise-Internship-Projects)
 
 <!--
 **EtienneQuarteyPapafio/EtienneQuarteyPapafio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
