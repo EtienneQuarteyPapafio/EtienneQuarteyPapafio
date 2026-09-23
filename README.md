@@ -5,11 +5,12 @@
 ![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-white)
 ![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-brown)
 
-- :computer: Programming languages and Skills:
-![c++](https://img.shields.io/badge/-C++-grey)
-![python](https://img.shields.io/badge/-Python-blue)
+- :computer: Programming Languages and Skills:
+![C++](https://img.shields.io/badge/-C++-grey)
+![x86](https://img.shields.io/badge/-x86-red)
+![Python](https://img.shields.io/badge/-Python-blue)
 ![Matlab](https://img.shields.io/badge/-MATLAB-orange)
-![MAX/MSP](https://img.shields.io/badge/-MAX/MSP-pink)
+![Javascript](https://img.shields.io/badge/-Javascript-pink)
 
 
 
@@ -17,6 +18,7 @@
 
 ### Projects
 - [Malware-Analysis-Writeups](https://github.com/EtienneQuarteyPapafio/Malware_Analysis)
+- [Reverse Engineering](https://github.com/EtienneQuarteyPapafio/Reverse_Engineering)
 - [Nwise Internship Projects](https://github.com/EtienneQuarteyPapafio/Nwise-Internship-Projects)
 
 <!--
